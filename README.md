@@ -1,2 +1,2 @@
-# my-very-first-nft-contract
- First NFT Contract
+# my-nft-contract
+NFT Contract
